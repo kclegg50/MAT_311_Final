@@ -1,49 +1,7 @@
 <meta charset="utf-8" lang="en">  <!-- this line allows UTF-8 characters in the .html file -->
 
 
-                    **Project 00: Image**
-
-This is a sample write up for the Project 00: Image COS350 project.
-
-
-
-<!--
-
-General
-========
-
-Use this readme to describe what you learned while working on this project.
-Also include any problems you ran into, solutions you found, fun things discovered, etc.
-This document is your chance to communicate to me what you learned and to show off what you did.
-Feel free to include code snippets if it helps.
-
-You should include all the images that you code generated in here along with a short description.
-I have added a few reference images (under `references/` folder), but you should delete those and add your own images (under `output/` folder).
-
-Be sure to include a description of the elective(s) and creative artifact.
-
-Hint: it might be good to write a short note on how you know your implementation is doing the correct thing.
-For some of the images, this is obvious as you can compare your output with my reference images.
-But for other images, it might not be so obvious.
-
-
-Feel free to modify the structure of this `readme.html` file to fit the current assignment and to fit how you wish to present your findings.
-
-Take a look at the [Markdeep Feature Demo](https://casual-effects.com/markdeep/features.md.html) to see how you can markup this document.
-
-
-
-Submission
------------
-
-Submit a zip with everything needed to run your project, which includes _ALL_ source code and any extra images.
-I will run your submissions on my computer to make sure that all images are produced by your code.
-I will read through your readme (this document) to understand how you implemented your source.
-
-
--->
-
-
+                    **Final Project**
 
 Author
 =============
@@ -52,12 +10,8 @@ Author
 <!-- Note: wrapping table in div.noheader will hide the table's header -->
 <!-- Note: wrapping table in div.firstcol will style the first column different from other columns -->
 <div class="noheader firstcol">
-                  |             
-------------------|-------------
-name              | Keenan Clegg and Lauren Kersten
-computer + OS     | my Windows laptop
-time to complete  | 10 hours
-additional help   | Dr. Mishra
+
+name: Keenan Clegg and Lauren Kersten | time to complete: 10 hours | additional help: Dr. Mishra
 </div>
 
 Reflection

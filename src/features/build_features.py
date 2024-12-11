@@ -1,1 +1,7 @@
-
+adult.drop(["capital_loss", "capital_gain", "occupation", "fnlwgt", "native_country", "hours_per_week", "work_class"], axis=1, inplace=True)
+adult_education = pd.get_dummies(adult['education'])
+adult_family_status = pd.get_dummies(adult['family_status'])
+adult_race = pd.get_dummies(adult['race'])
+adult_sex = pd.get_dummies(adult['sex'])
+adult.drop(["education", "family_status", "race", "sex", "martital_status", "income"], axis=1, inplace=True)
+adult_complete = pd.concat([adult, adult_education, adult_family_status, adult_race, adult_sex], axis=1)
